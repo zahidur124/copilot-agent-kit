@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Slide decks, kept out of the repo
+*.pptx
